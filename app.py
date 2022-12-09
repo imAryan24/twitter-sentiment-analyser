@@ -84,3 +84,8 @@ if st.button("Analysis Sentiment"):
         st.image(img3)
     st.subheader("Twitter Sentment Analysis")
     st.bar_chart(analyse)
+st.sidebar.markdown("Made by students of GTBIT: ")
+st.sidebar.text('Kartik Nawani - 03476803119')
+st.sidebar.text('Vaishnavi Prakash - 05376803119')
+st.sidebar.text('Jigyasa - 00776803119')
+st.sidebar.text('Navroop - 05476803119')    
