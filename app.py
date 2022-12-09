@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'Get Help': "## Ask us any Question. ",
+        'Get Help': 'https://github.com/kartiknawani',
         'About': "## A Twitter sentiment analysis webappTwitter Sentment Analysis Web App using #Hashtag and username to fetch tweets and tells the sentiment of the perticular #Hashtag or username. "
     }
 )
